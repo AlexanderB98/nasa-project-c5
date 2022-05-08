@@ -16,3 +16,26 @@ h1 {
   padding: 150px;
   font-size: 100px;
 }
+
+.informationSection {
+  display: flex;
+  background-color: rgb(244, 237, 237);
+  margin-top: 25px;
+  width: 850px;;
+  height: 324px;
+}
+
+.box-1 {
+  margin-right: 20px;
+  width: 270px;
+}
+
+.box-2 {
+  margin-right: 20px;
+  width: 270px;
+}
+
+.box-3 {
+  margin-left: 100px;
+  width: 270px;
+}
