@@ -1,3 +1,18 @@
 body {
   background-color: white;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.spaceImage {
+background-image: url("images/galaxy.jpeg");
+width: 850px;
+height: 450px;
+margin-top: 75px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding: 150px;
+  font-size: 100px;
 }
